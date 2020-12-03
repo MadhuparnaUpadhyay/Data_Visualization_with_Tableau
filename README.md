@@ -14,9 +14,10 @@ Tableau Dashboard
 
 <a name="installation"></a>
 # Installation
-Kaggle for Data [Source](https://www.kaggle.com/lucabasa/dutch-energy)
-Download Tableau Desktop from [Website](https://www.tableau.com/products/desktop/download)
-Download Tableau Prep from [link](https://www.tableau.com/products/prep)
+
+* Kaggle for Data [Source](https://www.kaggle.com/lucabasa/dutch-energy)
+* Download Tableau Desktop from [Website](https://www.tableau.com/products/desktop/download)
+* Download Tableau Prep from [link](https://www.tableau.com/products/prep)
 
 
 ## Prerequisites
